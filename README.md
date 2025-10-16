@@ -9,7 +9,6 @@
  <h2 align="left">
   I'm an aspiring programmer and entrepreur who likes to code. 
  </h2>
- <img src="silver.gif">
  <h2 align="right">  - Currently learning HTML, CSS, JavaScript, and C++. Also learning CTF techniques!
 </h2>
 </div>
