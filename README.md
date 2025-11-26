@@ -16,7 +16,4 @@
 <blockquote align="center"> I think, therefore I am. </blockquote>
 <blockquote align="center"> Abandoning your uniqueness is equivalent to dying.</blockquote>
 
-  
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senkyte&show_icons=true&theme=dracula)
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=senkyte&theme=dracula)](https://git.io/streak-stats)
 
