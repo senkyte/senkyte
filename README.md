@@ -7,9 +7,9 @@
 </div>
  <div> 
  <h2 align="left">
-  I'm an aspiring programmer and entrepreur who likes to code. 
+  Programmer and aspiring entrepreneur. 
  </h2>
- <h2 align="right">  - Currently learning HTML, CSS, JavaScript, and C++. Also learning CTF techniques!
+ <h2 align="right">  Working on whatever interests me at the moment
 </h2>
 </div>
 
