@@ -4,7 +4,7 @@
 </h1>
 <blockquote align="center"> Abandoning your uniqueness is equivalent to dying.</blockquote>
 <div align="center">
- <img src="uniqueness.png"></img>
+ <img src="uniqueness.png" width="500"></img>
 </div>
  <div> 
  <h2 align="left">
