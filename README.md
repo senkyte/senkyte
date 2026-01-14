@@ -13,7 +13,6 @@
 </h2>
 </div>
 
-<blockquote align="center"> I think, therefore I am. </blockquote>
 <blockquote align="center"> Abandoning your uniqueness is equivalent to dying.</blockquote>
 
 
